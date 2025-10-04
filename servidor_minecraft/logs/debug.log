@@ -12816,3 +12816,9 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [04Oct2025 05:02:16.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT left the game
 [04Oct2025 05:02:16.768] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Brandon_MGT
 [04Oct2025 05:02:16.768] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Brandon_MGT
+[04Oct2025 05:06:07.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 05:06:07.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 05:07:46.785] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[04Oct2025 05:11:07.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 05:11:07.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 05:11:53.785] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
