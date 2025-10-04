@@ -605,3 +605,50 @@
 [04Oct2025 04:01:54.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt left the game
 [04Oct2025 04:01:54.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt was slain by Drowned
 [04Oct2025 04:01:54.327] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jose_2008_gt
+[04Oct2025 04:03:27.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jose_2008_gt[/10.147.17.198:52314] logged in with entity id 19318 at (-920.6263403715454, 62.07326432466507, 453.17571027947935)
+[04Oct2025 04:03:27.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt joined the game
+[04Oct2025 04:03:29.271] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jose_2008_gt (20)
+[04Oct2025 04:03:29.272] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jose_2008_gt
+[04Oct2025 04:03:59.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7
+[04Oct2025 04:04:00.319] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7
+[04Oct2025 04:04:00.320] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jose_2008_gt (ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7) successfully connected to voice chat
+[04Oct2025 04:05:13.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jose_2008_gt> ya volvi
+[04Oct2025 04:05:36.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jose_2008_gt> recupera mis cosas si podes
+[04Oct2025 04:07:37.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brandon_MGT lost connection: Disconnected
+[04Oct2025 04:07:37.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT left the game
+[04Oct2025 04:07:37.916] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Brandon_MGT
+[04Oct2025 04:08:46.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Brandon_MGT[/10.147.17.9:65224] logged in with entity id 22415 at (-765.1452639723537, 62.07326432466507, 437.4103764013009)
+[04Oct2025 04:08:46.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT joined the game
+[04Oct2025 04:08:47.085] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Brandon_MGT (20)
+[04Oct2025 04:08:47.086] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Brandon_MGT
+[04Oct2025 04:08:55.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ad9fe4fd-fb7e-333c-a123-6d5494b7ee09
+[04Oct2025 04:08:56.606] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ad9fe4fd-fb7e-333c-a123-6d5494b7ee09
+[04Oct2025 04:08:56.607] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Brandon_MGT (ad9fe4fd-fb7e-333c-a123-6d5494b7ee09) successfully connected to voice chat
+[04Oct2025 04:10:14.560] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-187, y=-12, z=591} but found not block entity block Block{minecraft:water}[level=0] at location
+[04Oct2025 04:10:14.563] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-187, y=-12, z=591}
+[04Oct2025 04:16:29.132] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[04Oct2025 04:16:30.136] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[04Oct2025 04:16:31.137] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[04Oct2025 04:16:32.138] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[04Oct2025 04:16:33.140] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[04Oct2025 04:16:34.142] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[04Oct2025 04:16:34.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10579ms or 211 ticks behind
+[04Oct2025 04:17:16.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
+[04Oct2025 04:21:12.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt has made the advancement [Isn't It Iron Pick]
+[04Oct2025 04:22:50.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt has made the advancement [Stone Age]
+[04Oct2025 04:25:53.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jose_2008_gt lost connection: Timed out
+[04Oct2025 04:25:53.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt left the game
+[04Oct2025 04:25:53.153] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jose_2008_gt
+[04Oct2025 04:27:03.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jose_2008_gt[/10.147.17.198:47582] logged in with entity id 39259 at (-2808.2369059021103, 87.0, -409.97194575608546)
+[04Oct2025 04:27:03.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt joined the game
+[04Oct2025 04:27:10.535] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jose_2008_gt (20)
+[04Oct2025 04:27:10.536] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jose_2008_gt
+[04Oct2025 04:28:33.673] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7
+[04Oct2025 04:28:34.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7
+[04Oct2025 04:28:34.597] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jose_2008_gt (ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7) successfully connected to voice chat
+[04Oct2025 04:29:14.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt has made the advancement [Amateur Archaeologist]
+[04Oct2025 04:30:34.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jose_2008_gt lost connection: Disconnected
+[04Oct2025 04:30:34.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt left the game
+[04Oct2025 04:30:34.205] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jose_2008_gt
+[04Oct2025 04:31:56.204] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@768925d1[id=<null>,name=Jose_2008_gt,properties={},legacy=false] (/10.147.17.198:52176) lost connection: Disconnected
+[04Oct2025 04:32:20.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT has made the advancement [Barrel Booty]

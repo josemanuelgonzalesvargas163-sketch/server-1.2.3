@@ -142,10 +142,13 @@
       "minecraft:mushroom_fields": "2025-10-04 03:51:54 +0000",
       "minecraft:deep_ocean": "2025-10-04 03:58:53 +0000",
       "minecraft:river": "2025-10-04 03:47:45 +0000",
+      "minecraft:lukewarm_ocean": "2025-10-04 04:18:57 +0000",
+      "minecraft:stony_shore": "2025-10-04 04:19:18 +0000",
       "minecraft:cold_ocean": "2025-10-04 03:57:12 +0000",
       "minecraft:forest": "2025-10-04 03:51:09 +0000",
       "minecraft:deep_cold_ocean": "2025-10-04 03:48:20 +0000",
       "minecraft:ocean": "2025-10-04 03:58:01 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-10-04 04:18:58 +0000",
       "minecraft:plains": "2025-10-04 03:34:44 +0000"
     },
     "done": false
@@ -327,6 +330,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2025-10-04 03:45:53 +0000",
+      "bread": "2025-10-04 04:28:47 +0000",
       "mushroom_stew": "2025-10-04 03:52:23 +0000"
     },
     "done": false
@@ -382,6 +386,24 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-10-04 03:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-10-04 04:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-10-04 04:22:50 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-10-04 04:29:14 +0000"
     },
     "done": true
   },
