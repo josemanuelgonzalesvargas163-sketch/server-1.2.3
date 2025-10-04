@@ -572,3 +572,36 @@
 [04Oct2025 03:40:36.686] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Valarians'
 [04Oct2025 03:40:36.688] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Valarians'
 [04Oct2025 03:40:36.689] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Valarians'
+[04Oct2025 03:45:04.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT has made the advancement [Monster Hunter]
+[04Oct2025 03:45:22.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT has made the advancement [Stone Age]
+[04Oct2025 03:45:26.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt has made the advancement [Sweet Dreams]
+[04Oct2025 03:45:39.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT has made the advancement [Getting an Upgrade]
+[04Oct2025 03:48:22.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt has made the advancement ['X' Marks the Spot]
+[04Oct2025 03:48:29.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT has made the advancement ['X' Marks the Spot]
+[04Oct2025 03:48:31.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT has made the advancement [Amateur Archaeologist]
+[04Oct2025 03:48:32.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT has made the advancement [Ice Bucket Challenge]
+[04Oct2025 03:51:56.633] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[04Oct2025 03:53:15.525] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[04Oct2025 03:53:15.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt has made the advancement [Acquire Hardware]
+[04Oct2025 03:53:26.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT has made the advancement [Acquire Hardware]
+[04Oct2025 03:54:10.399] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[04Oct2025 03:55:25.399] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[04Oct2025 03:55:59.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT has made the advancement [Sweet Dreams]
+[04Oct2025 03:56:03.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brandon_MGT> zzzzzzzzzzzzzzz
+[04Oct2025 03:56:04.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brandon_MGT> zzzzzzzzzzzzzzz
+[04Oct2025 03:56:05.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brandon_MGT> zzzzzzzzzzzz
+[04Oct2025 03:58:50.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3708ms or 74 ticks behind
+[04Oct2025 03:59:23.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7 timed out
+[04Oct2025 03:59:23.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Jose_2008_gt
+[04Oct2025 03:59:23.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Jose_2008_gt
+[04Oct2025 03:59:32.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jose_2008_gt lost connection: Timed out
+[04Oct2025 03:59:32.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt left the game
+[04Oct2025 03:59:32.007] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jose_2008_gt
+[04Oct2025 04:01:09.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jose_2008_gt[/10.147.17.198:47862] logged in with entity id 15788 at (-920.6263403715454, 62.07326432466507, 453.17571027947935)
+[04Oct2025 04:01:09.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt joined the game
+[04Oct2025 04:01:17.938] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jose_2008_gt (20)
+[04Oct2025 04:01:17.940] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jose_2008_gt
+[04Oct2025 04:01:54.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jose_2008_gt lost connection: Timed out
+[04Oct2025 04:01:54.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt left the game
+[04Oct2025 04:01:54.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt was slain by Drowned
+[04Oct2025 04:01:54.327] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jose_2008_gt

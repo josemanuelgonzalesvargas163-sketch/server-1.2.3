@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-10-04 03:48:29 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-10-04 03:34:18 +0000"
@@ -47,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-10-04 03:55:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:unlock_deep_pockets_book": {
     "criteria": {
       "exists": "2025-10-04 03:34:19 +0000"
@@ -59,11 +71,29 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-10-04 03:45:04 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-10-04 03:34:18 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-10-04 03:48:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-10-04 03:45:04 +0000"
+    },
+    "done": false
   },
   "mca:recipes/misc/family_tree": {
     "criteria": {
@@ -80,6 +110,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-10-04 03:34:18 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-10-04 03:45:10 +0000"
     },
     "done": true
   },
@@ -113,6 +149,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-10-04 03:53:26 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-10-04 03:34:18 +0000"
@@ -137,6 +179,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-10-04 03:48:31 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-10-04 03:34:18 +0000"
@@ -155,8 +203,20 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-10-04 03:45:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2025-10-04 03:51:52 +0000",
+      "minecraft:river": "2025-10-04 03:47:45 +0000",
+      "minecraft:cold_ocean": "2025-10-04 03:57:13 +0000",
+      "minecraft:forest": "2025-10-04 03:51:13 +0000",
+      "minecraft:deep_cold_ocean": "2025-10-04 03:49:07 +0000",
+      "minecraft:ocean": "2025-10-04 03:58:02 +0000",
       "minecraft:plains": "2025-10-04 03:34:20 +0000"
     },
     "done": false
@@ -197,15 +257,40 @@
     },
     "done": true
   },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-10-04 03:53:26 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2025-10-04 03:34:18 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-10-04 03:49:03 +0000",
+      "mushroom_stew": "2025-10-04 03:52:30 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-10-04 03:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-10-04 03:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-10-04 03:49:03 +0000"
     },
     "done": true
   },
@@ -230,6 +315,18 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-10-04 03:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-10-04 03:45:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-10-04 03:52:30 +0000"
     },
     "done": true
   },
@@ -263,9 +360,33 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-10-04 03:45:10 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-10-04 03:53:26 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-10-04 03:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-10-04 03:48:32 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-10-04 03:53:26 +0000"
     },
     "done": true
   },
@@ -284,6 +405,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-10-04 03:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-10-04 03:53:26 +0000"
     },
     "done": true
   },
