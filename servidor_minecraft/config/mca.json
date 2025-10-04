@@ -223,14 +223,14 @@
   },
   "professionConversionsMap": {},
   "shaderLocationsMap": {
-    "color_blind": "minecraft:shaders/post/desaturate.json",
-    "sirben": "mca:shaders/post/sirben.json"
+    "sirben": "mca:shaders/post/sirben.json",
+    "color_blind": "minecraft:shaders/post/desaturate.json"
   },
   "playerRendererBlacklist": {
+    "morph": "arms",
     "firstperson": "arms",
     "firstpersonmod": "arms",
-    "epicfight": "all",
-    "morph": "arms"
+    "epicfight": "all"
   },
   "enabledTraits": {
     "SIRBEN": true,
