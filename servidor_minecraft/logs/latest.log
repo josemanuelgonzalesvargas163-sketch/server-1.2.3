@@ -607,3 +607,39 @@
 [04Oct2025 04:54:01.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jose_2008_gt lost connection: Timed out
 [04Oct2025 04:54:01.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt left the game
 [04Oct2025 04:54:01.146] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jose_2008_gt
+[04Oct2025 04:54:47.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jose_2008_gt[/10.147.17.198:59392] logged in with entity id 2259 at (8.5, 63.0, 5.5)
+[04Oct2025 04:54:47.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt joined the game
+[04Oct2025 04:54:49.354] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jose_2008_gt (20)
+[04Oct2025 04:54:49.355] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jose_2008_gt
+[04Oct2025 04:54:56.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT has made the advancement [Not Today, Thank You]
+[04Oct2025 04:55:17.660] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7
+[04Oct2025 04:55:22.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7
+[04Oct2025 04:55:22.795] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jose_2008_gt (ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7) successfully connected to voice chat
+[04Oct2025 04:55:55.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7 timed out
+[04Oct2025 04:55:55.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Jose_2008_gt
+[04Oct2025 04:55:55.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Jose_2008_gt
+[04Oct2025 04:55:56.045] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7
+[04Oct2025 04:55:57.047] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7
+[04Oct2025 04:55:57.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jose_2008_gt (ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7) successfully connected to voice chat
+[04Oct2025 04:56:04.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jose_2008_gt: Set own game mode to Spectator Mode]
+[04Oct2025 04:56:20.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jose_2008_gt: Teleported Jose_2008_gt to Brandon_MGT]
+[04Oct2025 04:56:53.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT has made the advancement [Chest Slayer]
+[04Oct2025 04:57:30.307] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2568, y=-49, z=-359}
+[04Oct2025 04:57:31.655] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: There are over 100 entries in the conversion list without aggressive mode enabled. This may cause TPS issues. If TPS issues persist after first launch, consider enabling aggressive mode in the configuration.
+[04Oct2025 04:57:33.202] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2570, y=-11, z=-157}
+[04Oct2025 04:57:33.202] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2570, y=-11, z=-156}
+[04Oct2025 04:58:51.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jose_2008_gt: Teleported Jose_2008_gt to Brandon_MGT]
+[04Oct2025 04:59:03.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jose_2008_gt: Set own game mode to Survival Mode]
+[04Oct2025 04:59:42.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt has made the advancement [Barrel Booty]
+[04Oct2025 05:00:06.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jose_2008_gt: Set own game mode to Creative Mode]
+[04Oct2025 05:00:32.188] [Server thread/WARN] [net.minecraft.world.scores.Scoreboard/]: Requested creation of existing team 'Bandits'
+[04Oct2025 05:01:30.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt has made the advancement [Suit Up]
+[04Oct2025 05:01:45.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7 timed out
+[04Oct2025 05:01:45.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Jose_2008_gt
+[04Oct2025 05:01:45.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Jose_2008_gt
+[04Oct2025 05:02:02.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jose_2008_gt lost connection: Timed out
+[04Oct2025 05:02:02.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt left the game
+[04Oct2025 05:02:02.848] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jose_2008_gt
+[04Oct2025 05:02:16.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brandon_MGT lost connection: Disconnected
+[04Oct2025 05:02:16.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT left the game
+[04Oct2025 05:02:16.768] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Brandon_MGT

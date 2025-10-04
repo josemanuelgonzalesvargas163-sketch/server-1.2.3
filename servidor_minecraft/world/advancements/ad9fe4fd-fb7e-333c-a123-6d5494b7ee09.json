@@ -262,6 +262,7 @@
       "minecraft:forest": "2025-10-04 03:51:13 +0000",
       "minecraft:deep_cold_ocean": "2025-10-04 03:49:07 +0000",
       "minecraft:ocean": "2025-10-04 03:58:02 +0000",
+      "minecraft:jungle": "2025-10-04 05:01:44 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-10-04 04:18:57 +0000",
       "minecraft:plains": "2025-10-04 03:34:20 +0000"
     },
@@ -370,6 +371,7 @@
       "apple": "2025-10-04 03:49:03 +0000",
       "mutton": "2025-10-04 04:32:45 +0000",
       "bread": "2025-10-04 04:29:42 +0000",
+      "rotten_flesh": "2025-10-04 04:52:56 +0000",
       "mushroom_stew": "2025-10-04 03:52:30 +0000"
     },
     "done": false
@@ -443,6 +445,30 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-10-04 04:33:19 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-10-04 04:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-10-04 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-10-04 04:54:56 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-10-04 04:53:14 +0000"
     },
     "done": true
   },
