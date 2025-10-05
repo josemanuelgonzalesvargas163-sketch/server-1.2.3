@@ -41,18 +41,6 @@
     },
     "done": true
   },
-  "takesapillage:root": {
-    "criteria": {
-      "always": "2025-10-05 01:31:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:unlock_deep_pockets_book": {
-    "criteria": {
-      "exists": "2025-10-05 01:31:16 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-10-05 01:31:15 +0000"
@@ -80,12 +68,6 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-10-05 01:31:15 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-10-05 01:31:16 +0000"
     },
     "done": true
   },
@@ -124,24 +106,6 @@
       "has_the_recipe": "2025-10-05 01:31:15 +0000"
     },
     "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-10-05 01:31:16 +0000"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2025-10-05 01:31:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:stony_shore": "2025-10-05 01:31:18 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
@@ -188,18 +152,6 @@
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-10-05 01:31:15 +0000"
-    },
-    "done": true
-  },
-  "yungscavebiomes:root": {
-    "criteria": {
-      "always": "2025-10-05 01:31:16 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-10-05 01:31:16 +0000"
     },
     "done": true
   },
@@ -254,6 +206,149 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-10-05 01:31:15 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-10-05 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:unlock_deep_pockets_book": {
+    "criteria": {
+      "exists": "2025-10-05 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-10-05 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-10-05 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-10-05 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-10-05 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-10-05 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2025-10-05 02:07:41 +0000",
+      "minecraft:dark_forest": "2025-10-05 01:38:03 +0000",
+      "minecraft:river": "2025-10-05 02:07:33 +0000",
+      "minecraft:stony_shore": "2025-10-05 01:31:18 +0000",
+      "minecraft:lush_caves": "2025-10-05 01:52:44 +0000",
+      "minecraft:ocean": "2025-10-05 01:44:07 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-10-05 01:35:19 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:root": {
+    "criteria": {
+      "sample_trigger": "2025-10-05 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2025-10-05 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-10-05 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-10-05 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-10-05 01:36:16 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-10-05 01:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-10-05 01:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-10-05 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-10-05 01:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-10-05 01:43:40 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-10-05 01:44:14 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-10-05 01:44:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-10-05 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_encounter_success": {
+    "criteria": {
+      "goblins_encounter_success_0": "2025-10-05 02:09:43 +0000"
     },
     "done": true
   },
