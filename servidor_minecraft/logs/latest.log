@@ -622,3 +622,56 @@
 [05Oct2025 03:19:07.645] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@50966777[id=<null>,name=Brandon_MGT,properties={},legacy=false] (/10.147.17.9:61701): Took too long to log in
 [05Oct2025 03:19:07.645] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@50966777[id=<null>,name=Brandon_MGT,properties={},legacy=false] (/10.147.17.9:61701) lost connection: Took too long to log in
 [05Oct2025 03:19:07.694] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Oct2025 03:22:03.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Brandon_MGT[/10.147.17.9:62392] logged in with entity id 3402 at (-168.30000001192093, 63.0, -241.36983726041507)
+[05Oct2025 03:22:03.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT joined the game
+[05Oct2025 03:22:04.343] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Brandon_MGT (20)
+[05Oct2025 03:22:04.343] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Brandon_MGT
+[05Oct2025 03:22:59.602] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@73d49ed0[id=<null>,name=Jose_2008_gt,properties={},legacy=false] (/10.147.17.198:43460): Took too long to log in
+[05Oct2025 03:22:59.602] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73d49ed0[id=<null>,name=Jose_2008_gt,properties={},legacy=false] (/10.147.17.198:43460) lost connection: Took too long to log in
+[05Oct2025 03:22:59.653] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Oct2025 03:23:05.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brandon_MGT lost connection: Timed out
+[05Oct2025 03:23:05.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT left the game
+[05Oct2025 03:23:05.753] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Brandon_MGT
+[05Oct2025 03:23:30.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Brandon_MGT[/10.147.17.9:60589] logged in with entity id 3569 at (-168.30000001192093, 63.0, -241.36983726041507)
+[05Oct2025 03:23:30.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT joined the game
+[05Oct2025 03:23:30.745] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Brandon_MGT (20)
+[05Oct2025 03:23:30.746] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Brandon_MGT
+[05Oct2025 03:23:37.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jose_2008_gt[/10.147.17.198:41834] logged in with entity id 3607 at (-194.69999998807907, 64.0, -233.54123084600388)
+[05Oct2025 03:23:37.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt joined the game
+[05Oct2025 03:23:38.431] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jose_2008_gt (20)
+[05Oct2025 03:23:38.431] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jose_2008_gt
+[05Oct2025 03:24:01.793] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ad9fe4fd-fb7e-333c-a123-6d5494b7ee09
+[05Oct2025 03:24:02.793] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ad9fe4fd-fb7e-333c-a123-6d5494b7ee09
+[05Oct2025 03:24:02.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Brandon_MGT (ad9fe4fd-fb7e-333c-a123-6d5494b7ee09) successfully connected to voice chat
+[05Oct2025 03:24:15.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brandon_MGT lost connection: Timed out
+[05Oct2025 03:24:15.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT left the game
+[05Oct2025 03:24:15.600] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Brandon_MGT
+[05Oct2025 03:24:33.847] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7
+[05Oct2025 03:24:34.995] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7
+[05Oct2025 03:24:34.996] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jose_2008_gt (ebe3bb7a-6cf6-3343-b80c-dd80a824b6f7) successfully connected to voice chat
+[05Oct2025 03:25:03.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Brandon_MGT[/10.147.17.9:61645] logged in with entity id 3861 at (-168.30000001192093, 63.0, -241.36983726041507)
+[05Oct2025 03:25:03.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT joined the game
+[05Oct2025 03:25:04.620] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Brandon_MGT (20)
+[05Oct2025 03:25:04.621] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Brandon_MGT
+[05Oct2025 03:25:24.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jose_2008_gt: Killed 202 entities]
+[05Oct2025 03:25:34.088] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ad9fe4fd-fb7e-333c-a123-6d5494b7ee09
+[05Oct2025 03:25:35.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ad9fe4fd-fb7e-333c-a123-6d5494b7ee09
+[05Oct2025 03:25:35.094] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Brandon_MGT (ad9fe4fd-fb7e-333c-a123-6d5494b7ee09) successfully connected to voice chat
+[05Oct2025 03:25:47.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brandon_MGT lost connection: Timed out
+[05Oct2025 03:25:47.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT left the game
+[05Oct2025 03:25:47.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT was killed
+[05Oct2025 03:25:47.613] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Brandon_MGT
+[05Oct2025 03:25:52.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt was killed
+[05Oct2025 03:26:10.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Brandon_MGT[/10.147.17.9:62818] logged in with entity id 4355 at (-168.30000001192093, 63.0, -241.36983726041507)
+[05Oct2025 03:26:10.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT joined the game
+[05Oct2025 03:26:10.856] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Brandon_MGT (20)
+[05Oct2025 03:26:10.856] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Brandon_MGT
+[05Oct2025 03:26:51.773] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ad9fe4fd-fb7e-333c-a123-6d5494b7ee09
+[05Oct2025 03:26:52.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ad9fe4fd-fb7e-333c-a123-6d5494b7ee09
+[05Oct2025 03:26:52.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Brandon_MGT (ad9fe4fd-fb7e-333c-a123-6d5494b7ee09) successfully connected to voice chat
+[05Oct2025 03:26:59.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brandon_MGT lost connection: Disconnected
+[05Oct2025 03:26:59.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandon_MGT left the game
+[05Oct2025 03:26:59.236] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Brandon_MGT
+[05Oct2025 03:27:19.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jose_2008_gt lost connection: Disconnected
+[05Oct2025 03:27:19.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt left the game
+[05Oct2025 03:27:19.001] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jose_2008_gt
