@@ -14571,3 +14571,7 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [05Oct2025 03:27:19.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jose_2008_gt left the game
 [05Oct2025 03:27:19.001] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Jose_2008_gt
 [05Oct2025 03:27:19.001] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jose_2008_gt
+[05Oct2025 03:30:49.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Oct2025 03:30:49.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Oct2025 03:35:49.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Oct2025 03:35:49.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
